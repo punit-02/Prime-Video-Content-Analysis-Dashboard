@@ -1,4 +1,5 @@
 # Prime Video Content Analysis Dashboard
+![Image](https://github.com/user-attachments/assets/8ade0691-2439-488d-a598-309f32296c44)
 
 ## Overview
 This dashboard provides an analytical view of Prime Video's content library, showcasing key insights into its catalog of movies and TV shows. 
