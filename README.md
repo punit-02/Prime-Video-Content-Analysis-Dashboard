@@ -10,6 +10,7 @@ and derive insights based on genre distribution, age ratings, country-based cont
 
 ## POWER BI Dashboard
 
+![Image](https://github.com/user-attachments/assets/5b1a8799-4f56-4977-a826-7bd80f5b729f)
 
 
 ## Key Performance Indicators (KPIs)
